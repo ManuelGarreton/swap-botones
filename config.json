@@ -1,0 +1,4 @@
+{
+  "_comentario": "Pares de botones a intercambiar. Validos: A B X Y LB RB LS RS START BACK GUIDE UP DOWN LEFT RIGHT",
+  "swaps": [["A", "B"], ["X", "Y"]]
+}
