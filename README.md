@@ -2,6 +2,8 @@
 
 Intercambia los botones de un control **XInput (Xbox 360)** en Windows — por defecto **A↔B** y **X↔Y** — para **todos los juegos**, incluidos los que no son de Steam (Epic, Rockstar, etc.).
 
+Lo hice para poder usar un control de Nintendo como si fuera uno de Xbox: el botón de abajo pasa a funcionar como **A** (aceptar) y el de la derecha como **B** (volver), como esperan los juegos de PC.
+
 > *English:* Swaps face buttons (A↔B, X↔Y by default) of any XInput / Xbox 360 controller system-wide on Windows, using a virtual controller (ViGEmBus) and hiding the physical one (HidHide).
 
 ## El problema
